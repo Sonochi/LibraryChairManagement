@@ -1,0 +1,2 @@
+# LibraryChairManagement
+一个图书馆座位管理系统，包括了tomcat服务器和安卓APP端，以及基于XMPP协议的推送功能实现
